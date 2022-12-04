@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "638d0205f0205f66f1d5e673"
+  },
+  "nombre": "Python",
+  "anioCreacion": "1991",
+  "versionActual": "3.11",
+  "diseniadoPor": "Guido van Rossum",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+  "paradigmaUsado": "Multiparadigma: orientado a objetos, imperativo, funcional, reflexivo",
+  "esTipado": "Fuertemente tipado, dinámico",
+  "esLenguajeFrontend": "Si",
+  "esLenguajeBackend": "Si",
+  "caracteristicas": "Python es un lenguaje de programación multiparadigma. Esto significa que más que forzar a los programadores a adoptar un estilo particular de programación, permite varios estilos: programación orientada a objetos, programación imperativa y programación funcional. Otros paradigmas están soportados mediante el uso de extensiones.",
+  "pros": "Es un lenguaje de alto nivel, lo que facilita sucomprensiòn, se puede usar para multiples propositos, tiene amplias librerias, es portable, gratis y de còdigo abierto, tiene un baja curva de aprendizaje y una amplia comunidad de apoyo.",
+  "contras": "Puede llegar a ser lento, consumir mucha memoria debido a la flexibilidad en el tipo de datos y no es adecuado para aplicaciones moviles",
+  "paginaOficial": "https://www.python.org/",
+  "extensiones": ".py",
+  "saberMas": "https://es.wikipedia.org/wiki/Python"
+},{
+  "_id": {
+    "$oid": "638d0282f0205f66f1d5e675"
+  },
+  "nombre": "Java",
+  "anioCreacion": "1996",
+  "versionActual": "18.0",
+  "diseniadoPor": "Sun Microsystems (Oracle Corporation)",
+  "logo": "https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)#/media/Archivo:Duke_(Java_mascot)_waving.svg",
+  "paradigmaUsado": "Orientado a objetos, imperativo",
+  "esTipado": "fuertemente tipado",
+  "esLenguajeFrontend": "No",
+  "esLenguajeBackend": "Si",
+  "caracteristicas": "Java es un lenguaje sencillo y orientado a objetos, que permite el desarrollo de aplicaciones en diversas áreas, como seguridad, animación, acceso a bases de datos, aplicaciones cliente-servidor, interfaces gráficas, páginas Web interactivas y desarrollo de aplicaciones móviles, entre otras.",
+  "pros": "Baja curva de aprendizaje, orientado a objetos, multiplataforma, cuenta con libreacion de memoria, compatibilidad con librerias estandar y editores, es un lenguaje de codigo abierto",
+  "contras": "Es un lenguaje interpretado, es de sintaxis compleja, dependiente del JVM, no cuenta con funcion de copia de seguridad,",
+  "paginaOficial": "",
+  "extensiones": ".java",
+  "saberMas": "https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)"
+}]
