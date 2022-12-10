@@ -1,0 +1,23 @@
+{
+  "name": "backendc4",
+  "version": "1.0.0",
+  "description": "Lenguajes de programacion",
+  "main": "app.js",
+  "scripts": {
+    "test": "app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DianaGuzman24/Lenguajes_de_Programacion-C4.git"
+  },
+  "author": "Diana y Andres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DianaGuzman24/Lenguajes_de_Programacion-C4/issues"
+  },
+  "homepage": "https://github.com/DianaGuzman24/Lenguajes_de_Programacion-C4#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongose": "^0.0.2-security"
+  }
+}
