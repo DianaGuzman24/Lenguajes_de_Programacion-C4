@@ -11,7 +11,7 @@ function App() {
       <Routes>
         <Route path="/" element={<IndexPage />} />
         <Route path="/galeria" element={<LenguajesPage />} />
-        <Route path="/detalles" element={<LenguajesDetails />} />
+        <Route path="/detalles/:lenguaje_id" element={<LenguajesDetails />} />
       </Routes>
       
     </div>

@@ -10,6 +10,10 @@ mongoose
 //Model
 const Lenguajes= require('./Models/Lenguajes.model')
 
+//CORS
+const CORS= require('cors')
+app.use(CORS())
+
 //Routing 
 app.get('/api/listaLenguajes', (req, res) => {
     Lenguajes
