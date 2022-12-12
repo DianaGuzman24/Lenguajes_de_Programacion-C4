@@ -8,7 +8,9 @@ import{Routes,Route} from 'react-router-dom'
 function App() {
   return (
     <div className="container">
+
       <Routes>
+        
         <Route path="/" element={<IndexPage />} />
         <Route path="/galeria" element={<LenguajesPage />} />
         <Route path="/detalles/:lenguaje_id" element={<LenguajesDetails />} />

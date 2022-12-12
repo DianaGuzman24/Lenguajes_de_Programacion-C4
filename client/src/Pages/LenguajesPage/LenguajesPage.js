@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom'
 
 import './LenguajesPage.css'
 
-const LenguajesPage = () =>{
+const LenguajesPage = () => {
 
     const [listaLenguajes, setlistaLenguajes] = useState([])
 
@@ -13,7 +13,7 @@ const LenguajesPage = () =>{
         .then(allLenguajes => setlistaLenguajes(allLenguajes))
     }
 
-    loadLenguajes ()
+    loadLenguajes()
 
     return (
        <main>

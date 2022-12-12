@@ -16,8 +16,8 @@ const listaLenguajesSchema = mongoose.Schema(
         contras: String,
         paginaOficial: String,
         extensiones: String,
-        saberMas:String   
+        saberMas: String   
 })
 
-const Lenguajes = mongoose.model('listaLenguajes', listaLenguajesSchema)
+const Lenguajes = mongoose.model('listaLenguajes', listaLenguajesSchema, 'listaLenguajes')
 module.exports = Lenguajes
