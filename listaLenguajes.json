@@ -1,6 +1,6 @@
 [{
   "_id": {
-    "$oid": "638d0205f0205f66f1d5e673"
+    "$oid": "6396213df133edd1d9e0f58e"
   },
   "nombre": "Python",
   "anioCreacion": "1991",
@@ -19,7 +19,7 @@
   "saberMas": "https://es.wikipedia.org/wiki/Python"
 },{
   "_id": {
-    "$oid": "638d0282f0205f66f1d5e675"
+    "$oid": "6396213df133edd1d9e0f58f"
   },
   "nombre": "Java",
   "anioCreacion": "1996",
@@ -27,13 +27,260 @@
   "diseniadoPor": "Sun Microsystems (Oracle Corporation)",
   "logo": "https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)#/media/Archivo:Duke_(Java_mascot)_waving.svg",
   "paradigmaUsado": "Orientado a objetos, imperativo",
-  "esTipado": "fuertemente tipado",
+  "esTipado": "Fuertemente tipado",
   "esLenguajeFrontend": "No",
   "esLenguajeBackend": "Si",
   "caracteristicas": "Java es un lenguaje sencillo y orientado a objetos, que permite el desarrollo de aplicaciones en diversas áreas, como seguridad, animación, acceso a bases de datos, aplicaciones cliente-servidor, interfaces gráficas, páginas Web interactivas y desarrollo de aplicaciones móviles, entre otras.",
   "pros": "Baja curva de aprendizaje, orientado a objetos, multiplataforma, cuenta con libreacion de memoria, compatibilidad con librerias estandar y editores, es un lenguaje de codigo abierto",
   "contras": "Es un lenguaje interpretado, es de sintaxis compleja, dependiente del JVM, no cuenta con funcion de copia de seguridad,",
-  "paginaOficial": "",
+  "paginaOficial": "https://www.java.com/es/",
   "extensiones": ".java",
   "saberMas": "https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)"
+},{
+  "_id": {
+    "$oid": "6396213df133edd1d9e0f590"
+  },
+  "nombre": "JavaScript",
+  "anioCreacion": "1995",
+  "versionActual": "1.5",
+  "diseniadoPor": "Brendan Eich",
+  "logo": "https://es.wikipedia.org/wiki/JavaScript#/media/Archivo:Unofficial_JavaScript_logo_2.svg",
+  "paradigmaUsado": "Multiparadigma, programación funcional, programación basada en prototipos, imperativo, interpretado (scripting)",
+  "esTipado": "débilmente tipado y dinámico.",
+  "esLenguajeFrontend": "Si",
+  "esLenguajeBackend": "No.",
+  "caracteristicas": "Es uno de los lenguajes de programación más importantes y según datos, lo utilizan un 80% de los desarrolladores y un 95% de todos los sitios web. Las ventajas de JavaScript se sitúan en el lado del front-end, y varios frameworks que soporta como React y Angular JS tienen un gran potencial para mejorar la experiencia del usuario en la web. Se trata en definitiva de un tipo de lenguaje ligero, multiplataforma, estructurado y orientado a objetos y eventos.",
+  "pros": "Es un lenguaje de programación seguro y fiable.De fácil empleo y muy completo.Es ligero y permite la elaboración de múltiples aplicaciones web.Es compatible con la mayoría de navegadores.",
+  "contras": "No proporciona muchos recursos.Soporta 3D, pero las opciones que ofrece son limitadas.Puede ser vulnerable, ya que el código de JavaScript está visible para todo el mundo.Tienes que descargar completamente el código antes de procesarlo.",
+  "paginaOficial": "https://www.javascript.com/",
+  "extensiones": ".js",
+  "saberMas": "https://es.wikipedia.org/wiki/JavaScript"
+},{
+  "_id": {
+    "$oid": "6396213df133edd1d9e0f591"
+  },
+  "nombre": "C#",
+  "anioCreacion": "2000",
+  "versionActual": "11.0",
+  "diseniadoPor": "Andrés Hejlsberg (Microsoft)",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/800px-C_Sharp_wordmark.svg.png",
+  "paradigmaUsado": "Multiparadigma: estructurado, imperativo, orientado a objetos, dirigido por eventos, funcional, genérico, reflexivo",
+  "esTipado": "Fuertemente tipado",
+  "esLenguajeFrontend": "Si",
+  "esLenguajeBackend": "No",
+  "caracteristicas": "Sintaxis sencilla que facilita al desarrollador la escritura de código. Sistema de tipo unificado, permitiendo realizar operaciones comunes y que los valores de todos los tipos se puedan almacenar, transportar y utilizar de manera coherente. Orientación a componentes. Espacio de nombres. Se puede aislar o agrupar código mediante Bibliotecas. Todos los compiladores de C# tienen un mínimo de biblioteca de clases disponibles para usar.Integración con otros lenguajes. Multihilo. En C# puedes dividir el código en múltiples hilos de ejecución, trabajar en paralelo y sincronizarlos al final.",
+  "pros": "Atributos: cada miembro de una clase tiene un atributo de acceso del tipo público, protegido, interno, interno protegido y privado.Pase de parámetros: aquí se puede declarar a los métodos para que acepten un número variable de parámetros. De forma predeterminada, el pase de parámetros es por valor, a menos que se use la palabra reservada ref, la cual indica que el pase es por referencia.",
+  "contras": "Las desventajas que se derivan del uso de este lenguaje de programación son que en primer lugar se tiene que conseguir una versión reciente de Visual Studio .NET, por otra parte se tiene que tener algunos requerimientos mínimos del sistema para poder trabajar adecuadamente tales como contar con Windows NT 4 o superior, tener alrededor de 4 gigas de espacio libre para la pura instalación, etc.",
+  "paginaOficial": "https://learn.microsoft.com/en-us/dotnet/csharp/",
+  "extensiones": ".cs .csx",
+  "saberMas": "https://es.wikipedia.org/wiki/C_Sharp"
+},{
+  "_id": {
+    "$oid": "6396213df133edd1d9e0f592"
+  },
+  "nombre": "PHP",
+  "anioCreacion": "1994",
+  "versionActual": "8.1",
+  "diseniadoPor": "The PHP Group",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png",
+  "paradigmaUsado": "multiparadigma e interpretado",
+  "esTipado": "Dinámico",
+  "esLenguajeFrontend": "No",
+  "esLenguajeBackend": "Si",
+  "caracteristicas": "PHP es un lenguaje de programación destinado a desarrollar aplicaciones para la web y crear páginas web, favoreciendo la conexión entre los servidores y la interfaz de usuario. Entre los factores que hicieron que PHP se volviera tan popular, se destaca el hecho de que es de código abierto.",
+  "pros": "Es un lenguaje de código abierto, es facil de aprender, se adapta al leguaje HTML, soporta gran cantidad de datos, permite automatizar tareas",
+  "contras": "Aprender sobre framework de PHP, mala calidad de manejo de errores, seguridad baja,, se necesita un servidor web",
+  "paginaOficial": "https://www.php.net/",
+  "extensiones": ".php",
+  "saberMas": "https://es.wikipedia.org/wiki/PHP"
+},{
+  "_id": {
+    "$oid": "6396213df133edd1d9e0f593"
+  },
+  "nombre": "C++",
+  "anioCreacion": "1983",
+  "versionActual": "c++20",
+  "diseniadoPor": " Bjarne Stroustrup.",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png",
+  "paradigmaUsado": "Multiparadigma: Programación Estructurada, imperativo, programación genérica",
+  "esTipado": "Fuerte, estático, nominativo",
+  "esLenguajeFrontend": "No",
+  "esLenguajeBackend": "Si",
+  "caracteristicas": "Su sintaxis es heredada del lenguaje C.Programa orientado a objetos (POO).Permite la agrupación de instrucciones.Es portátil y tiene un gran número de compiladores en diferentes plataformas y sistemas operativos.Permite la separación de un programa en módulos que admiten compilación independiente.Es un lenguaje de alto nivel.",
+  "pros": "Desempeño alto Actualizaciones, Multiplataforma, Gestion de base de datos, Uso y variedad de compiladores, Multiparadigma, Graficos, ",
+  "contras": "Curva de aprendizaje alta, Requiere conocimiento previo, Poco recomendado para diseño de paginas web, Traduccion al lenguaje de maquina",
+  "paginaOficial": "https://isocpp.org/",
+  "extensiones": ".cc .cpp .cxx .h",
+  "saberMas": "https://es.wikipedia.org/wiki/C%2B%2B"
+},{
+  "_id": {
+    "$oid": "6396213df133edd1d9e0f594"
+  },
+  "nombre": "Go",
+  "anioCreacion": "2009",
+  "versionActual": "1.18",
+  "diseniadoPor": "Robert Griesemer, Rob Pike y Ken Thompson",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/245px-Go_Logo_Blue.svg.png",
+  "paradigmaUsado": "orientado a objetos",
+  "esTipado": "Estático",
+  "esLenguajeFrontend": "No",
+  "esLenguajeBackend": "Si",
+  "caracteristicas": "Go es un proyecto de código abierto.15​Go usa una sintaxis similar a C.16​Go usa tipado estático.Go es un lenguaje compilado, al igual que C y C++.Provee un recolector de basura, reflexión y algunas otras capacidades de lenguajes de alto nivel.Los binarios de Go tienen la característica de compilación cruzada de manera nativa.Go admite el paradigma de programación orientada a objetos, pero a diferencia de otros lenguajes de programación no dispone de herencia de tipos y tampoco de palabras clave que denoten claramente que soporta este paradigma.",
+  "pros": "Es un lenguaje concurrente que soporta canales de comunicación CSP.Cuenta con un recolector de basura, que permite elevar al máximo la eficiencia y el rendimiento, y reducir al mínimo la latencia.Tiene una sintaxis clara y concisa. Evita, además, la declaración explícita de variables.Es un lenguaje innovador, que toma lo mejor de los lenguajes modernos para dar vida a un lenguaje eficiente, claro y sencillo",
+  "contras": "Es todavía un lenguaje experimental sujeto a cambios. Go aún no es muy utilizable en Windows.",
+  "paginaOficial": "https://go.dev/",
+  "extensiones": ".go",
+  "saberMas": "https://es.wikipedia.org/wiki/Go_(lenguaje_de_programaci%C3%B3n)"
+},{
+  "_id": {
+    "$oid": "6396213df133edd1d9e0f595"
+  },
+  "nombre": "Dart",
+  "anioCreacion": "2021",
+  "versionActual": "2.15.1",
+  "diseniadoPor": "Google",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Dart-logo-wordmark.svg/250px-Dart-logo-wordmark.svg.png",
+  "paradigmaUsado": "orientado a objetos",
+  "esTipado": "Estático",
+  "esLenguajeFrontend": "Si",
+  "esLenguajeBackend": "No",
+  "caracteristicas": "Programacion estructurada y flexible, Lenguaje familiar y facil de aprender, Permite la adaptacion de nueva herramienta a cualquier navegador web, Lenguaje basado en clases e interfacez o POO",
+  "pros": "Es de acceso gratuito para cualquier persona. Detrás de su programación se encuentra Google, lo que ofrece perspectivas a largo plazo para el desarrollo del lenguaje. Dart es fácil de aprender debido a que los desarrolladores han simplificado características complicadas de otros lenguajes",
+  "contras": "El lenguaje de programación Dart es relativamente nuevo, lo que implica una comunidad de soporte aún bastante reducida y una disponibilidad de materiales de aprendizaje inferior a JavaScript.",
+  "paginaOficial": "https://dart.dev/",
+  "extensiones": ".dart",
+  "saberMas": "https://es.wikipedia.org/wiki/Dart"
+},{
+  "_id": {
+    "$oid": "63964906d64179f97f5749c7"
+  },
+  "nombre": "Swift",
+  "anioCreacion": "2014",
+  "versionActual": "5.7.1",
+  "diseniadoPor": "Chris Lattner, Doug Gregor, John McCall, Ted Kremenek, Joe Groff, Apple",
+  "logo": "https://images.app.goo.gl/xeGQVMpLSiTWHasx6",
+  "paradigmaUsado": "Multiparadigma (Orientado a protocolos, objetos, funcional, programación imperativa)",
+  "esTipado": "Fuertemente Tipado",
+  "esLenguajeFrontend": "Si",
+  "esLenguajeBackend": "No",
+  "caracteristicas": "Swift es un lenguaje de programación poderoso e intuitivo creado por Apple para desarrollar apps de iOS, Mac, Apple TV y Apple Watch. Está diseñado para brindar a los desarrolladores más libertad que nunca. Y como es fácil de usar y de código abierto, es ideal para que cualquier persona con una idea pueda hacerla realidad.",
+  "pros": "No es un lenguaje exclusivo de iOS y puedes usarlo en Linux también.Es más fácil de aprender y programar con él que otros lenguajes.Ofrece un código muy seguro, ya que evita ciertas estructuras o condiciones.Tareas como la encriptación se ejecutan más rápidamente.",
+  "contras": "Cada vez que salga una nueva versión, tendrás que reprogramar tu app.Impone muchas reglas a hora de programar.",
+  "paginaOficial": "https://www.apple.com/co/swift/",
+  "extensiones": ".swift",
+  "saberMas": "https://es.wikipedia.org/wiki/Swift_(lenguaje_de_programaci%C3%B3n)"
+},{
+  "_id": {
+    "$oid": "63964a69d64179f97f5749c9"
+  },
+  "nombre": "Matlab",
+  "anioCreacion": "1984",
+  "versionActual": "R2020a",
+  "diseniadoPor": "MathWorks",
+  "logo": "https://es.wikipedia.org/wiki/MATLAB#/media/Archivo:Matlab_Logo.png",
+  "paradigmaUsado": "Multiparadigma",
+  "esTipado": "Debilmente Tipado, Dinámico",
+  "esLenguajeFrontend": "No",
+  "esLenguajeBackend": "Si",
+  "caracteristicas": "Las aplicaciones de MATLAB se desarrollan en un lenguaje de programación propio. Este lenguaje es interpretado, y puede ejecutarse tanto en el entorno interactivo, como a través de un archivo de script (archivos *.m). Este lenguaje permite operaciones de vectores y matrices, funciones, cálculo lambda, y programación orientada a objetos.",
+  "pros": "Los nombres de las funciones son familiares y fáciles de recordar. El entorno de escritorio está ajustado para flujos de trabajo científicos y de ingeniería. La documentación está escrita para ingenieros y científicos, no para informáticos.",
+  "contras": "Mala gestión de la memoria . Problemas eventuales de velocidad. Proceso laborioso susceptible a cometer errores en la \nprogramación de algoritmos; es conveniente depurar correctamente los códigos realizados. Distribución de ejecutables",
+  "paginaOficial": "https://www.mathworks.com/products/matlab.html",
+  "extensiones": ".m, .mat",
+  "saberMas": "https://es.wikipedia.org/wiki/MATLAB"
+},{
+  "_id": {
+    "$oid": "63964b20d64179f97f5749cb"
+  },
+  "nombre": "C",
+  "anioCreacion": "1972",
+  "versionActual": "C2x",
+  "diseniadoPor": "Dennis Ritchie y Laboratorios Bell",
+  "logo": "https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)#/media/Archivo:The_C_Programming_Language_logo.svg",
+  "paradigmaUsado": "Imperativo (procedural), estructurado",
+  "esTipado": "Débil estático",
+  "esLenguajeFrontend": "No",
+  "esLenguajeBackend": "Si",
+  "caracteristicas": "C es un lenguaje de programación de propósito general2​: 1  originalmente desarrollado por Dennis Ritchie entre 1969 y 1972 en los Laboratorios Bell,1​ como evolución del anterior lenguaje B, a su vez basado en BCPL.2​: 1 3​4​",
+  "pros": "Las principales ventajas de C++ son: Los programas nuevos pueden ser desarrollados en menos tiempo porque se puede rehusar el código. Crear y usar nuevos tipos de datos es más fácil que en otros lenguajes como. El manejo de memoria en C++ es mas fácil y transparente.",
+  "contras": "Curva alta de aprendizaje. Si quieres aprender a programar lenguaje C, deberás saber que no es nada fácil.Lenguaje incompleto. Estructura muy cerrada.Falta de funciones.No recomendable para sitios web.Bajos niveles de abstracción.No permite checking a tiempo de ejecución.",
+  "paginaOficial": "https://www.open-std.org/jtc1/sc22/wg14/",
+  "extensiones": ".c,.h",
+  "saberMas": "https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)"
+},{
+  "_id": {
+    "$oid": "63964bded64179f97f5749cd"
+  },
+  "nombre": "Visual Basic",
+  "anioCreacion": "1992",
+  "versionActual": "6.0",
+  "diseniadoPor": "Alan Cooper",
+  "logo": "https://images.app.goo.gl/jy3NJ52XKQGFbPW67",
+  "paradigmaUsado": "Multiparadigma: estructurado, imperativo, orientado a objetos, dirigido por eventos",
+  "esTipado": "Estático y fuerte",
+  "esLenguajeFrontend": "No",
+  "esLenguajeBackend": "Si",
+  "caracteristicas": "Los compiladores de Visual Basic generan código que requiere una o más librerías de enlace dinámico para que funcione, conocidas comúnmente como DLL en algunos casos reside en el archivo llamado MSVBVMxy.DLL Estas bibliotecas DLL proveen las funciones básicas implementadas en el lenguaje, conteniendo rutinas en código ejecutable que son cargadas bajo demanda en tiempo de ejecución. Además de las esenciales, existe un gran número de bibliotecas del tipo DLL con variedad de funciones, tales como las que facilitan el acceso a la mayoría de las funciones del sistema operativo o las que proveen medios para la integración con otras aplicaciones.",
+  "pros": "Posee una curva de aprendizaje muy rápida.Integra el diseño e implementación de formularios de Windows.Permite usar con facilidad la plataforma de los sistemas Windows, dado que tiene acceso prácticamente total a la API de Windows, incluidas librerías actuales.Es uno de los lenguajes de uso más extendido, por lo que resulta fácil encontrar información, documentación y fuentes para los proyectos.Fácilmente extensible mediante librerías DLL y componentes ActiveX de otros lenguajes.Posibilita añadir soporte para ejecución de scripts, VBScript o JScript, en las aplicaciones mediante Microsoft Script Control.7​",
+  "contras": "Problema de versionado asociado con varias librerías runtime DLL, conocido como DLL HellSoporte pobre para programación orientada a objetos10​Incapacidad para crear aplicaciones multihilo, sin tener que recurrir a llamadas de la API de Windows.Dependencia de complejas y frágiles entradas de registro COM11​La capacidad de utilizar controles en un único formulario es muy limitada en comparación a otras herramientas",
+  "paginaOficial": "https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6.0-documentation?redirectedfrom=MSDN",
+  "extensiones": ".vbs",
+  "saberMas": "https://es.wikipedia.org/wiki/Visual_Basic"
+},{
+  "_id": {
+    "$oid": "63964c1cd64179f97f5749cf"
+  },
+  "nombre": "CSS",
+  "anioCreacion": "1996",
+  "versionActual": "CSS3",
+  "diseniadoPor": "CSS Working Group",
+  "logo": "https://es.wikipedia.org/wiki/CSS#/media/Archivo:CSS3_logo.svg",
+  "paradigmaUsado": "Lenguajde de Hoja de estilos",
+  "esTipado": "No aplica",
+  "esLenguajeFrontend": "Si",
+  "esLenguajeBackend": "No",
+  "caracteristicas": " es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado.Es muy usado para establecer el diseño visual de los documentos web, e interfaces de usuario escritas en HTML o XHTML; el lenguaje puede ser aplicado a cualquier documento XML, incluyendo XHTML, SVG, XUL, RSS, etcétera. Junto con HTML y JavaScript, CSS es una tecnología usada por muchos sitios web para crear páginas visualmente atractivas, interfaces de usuario para aplicaciones web y GUIs para muchas aplicaciones móviles (como Firefox OS).",
+  "pros": "Separación del contenido y la presentación. Facilita la publicación de contenido en múltiples formatos de presentación. Puede ser usado para aplicar estilos a todo un sitio. Si más adelante estos estilos deben ser cambiados, los cambios pueden ser hechos solo con cambiar las reglas en la hoja de estilos global. ",
+  "contras": "CSS, CSS 1 hasta CSS3, crean confusión entre los navegadores web.Con CSS, lo que funciona con un navegador no siempre funciona con otro. Los desarrolladores web deben probar la compatibilidad, ejecutando el programa en varios navegadores.Existe escasez de seguridad.Después de realizar los cambios, debemos confirmar la compatibilidad si aparecen. El cambio similar afecta a todos los navegadores.",
+  "paginaOficial": "https://www.w3.org/Style/CSS/",
+  "extensiones": ".css",
+  "saberMas": "https://es.wikipedia.org/wiki/CSS#Ventajas"
+},{
+  "_id": {
+    "$oid": "63964c72d64179f97f5749d1"
+  },
+  "nombre": "R",
+  "anioCreacion": "1993",
+  "versionActual": "4.2.1",
+  "diseniadoPor": "Ross Ihaka y Robert Gentleman",
+  "logo": "https://es.wikipedia.org/wiki/R_(lenguaje_de_programaci%C3%B3n)#/media/Archivo:R_logo.svg",
+  "paradigmaUsado": "Multiparadigma",
+  "esTipado": "Estático y fuerte",
+  "esLenguajeFrontend": "No",
+  "esLenguajeBackend": "Si",
+  "caracteristicas": "R Está aumentando su popularidad debido al Big Data y del número creciente de trabajos de minería de datos, por lo que te vendrá muy bien aprender este lenguaje. Forma parte de un proyecto colaborativo y abierto y funciona mediante comandos. Ofrece una amplia gama de herramientas estadísticas con los que podrás generar gráficos de gran calidad",
+  "pros": "Es software libre de código abierto, por lo que tendrás una gran comunidad detrás apoyándote en caso de dudas.Multiplataforma. Funciona en Mac, Windows.Los gráficos son de gran calidad.",
+  "contras": "Es difícil encontrar información específica dada la amplia documentación que circula.Los mensajes de error que nos muestra no concretan los fallos.Si no sabes mucho de programación, es complejo de usar.",
+  "paginaOficial": "https://www.r-project.org/",
+  "extensiones": ".R",
+  "saberMas": "https://es.wikipedia.org/wiki/R_(lenguaje_de_programaci%C3%B3n)"
+},{
+  "_id": {
+    "$oid": "63964c8ad64179f97f5749d3"
+  },
+  "nombre": "Rust",
+  "anioCreacion": "2010",
+  "versionActual": "1.65.0",
+  "diseniadoPor": "Graydon Hoare",
+  "logo": "https://es.wikipedia.org/wiki/Rust_(lenguaje_de_programaci%C3%B3n)#/media/Archivo:Rust_programming_language_black_logo.svg",
+  "paradigmaUsado": "multiparadigma, imperativo, orientado a objetos, procedural, concurrente, funcional, compilado.",
+  "esTipado": "Estático y fuerte",
+  "esLenguajeFrontend": "No",
+  "esLenguajeBackend": "Si",
+  "caracteristicas": "Aunque es de nicho, su popularidad está aumentando según datos de Google Trends y forma parte de esos nuevos lenguajes de programación. Lo fundaron ingenieros de Mozilla y permite desarrollar software de sistemas, donde la interacción con el usuario es escasa. Es apropiada para aplicaciones con el modelo cliente-servidor.",
+  "pros": "Lenguaje rápido y seguro (gestión automática del guardado y el manejo de la memoria). Basado en Extensiones",
+  "contras": "No puedes utilizar un valor que no haya sido inicializado previamente. Necesitamos por lo menos una función de inicio (la función main). Es más complejo de aprender que otros lenguajes, ya que algunas de sus reglas son diferentes a las habituales.",
+  "paginaOficial": "https://www.rust-lang.org/",
+  "extensiones": ".rs",
+  "saberMas": "https://es.wikipedia.org/wiki/Rust_(lenguaje_de_programaci%C3%B3n)"
 }]
